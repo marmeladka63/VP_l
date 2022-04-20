@@ -1,0 +1,15 @@
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\bin\Debug\net6.0\VP_33.exe
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\bin\Debug\net6.0\VP_33.deps.json
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\bin\Debug\net6.0\VP_33.runtimeconfig.json
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\bin\Debug\net6.0\VP_33.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\bin\Debug\net6.0\VP_33.pdb
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.csproj.AssemblyReference.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.AssemblyInfo.cs
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\refint\VP_33.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.pdb
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\VP_33.genruntimeconfig.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_33\obj\Debug\net6.0\ref\VP_33.dll
