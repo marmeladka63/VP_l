@@ -1,0 +1,15 @@
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.csproj.AssemblyReference.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.AssemblyInfo.cs
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\bin\Debug\net6.0\VP_32.exe
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\bin\Debug\net6.0\VP_32.deps.json
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\bin\Debug\net6.0\VP_32.runtimeconfig.json
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\bin\Debug\net6.0\VP_32.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\bin\Debug\net6.0\VP_32.pdb
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\refint\VP_32.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.pdb
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\VP_32.genruntimeconfig.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\VP_L\VP_32\obj\Debug\net6.0\ref\VP_32.dll
